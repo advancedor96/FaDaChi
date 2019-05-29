@@ -1,4 +1,4 @@
-package com.example.ding.fadachi;
+package com.taiwanno1.ding.fadachi;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
